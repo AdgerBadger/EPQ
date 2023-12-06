@@ -16,14 +16,14 @@ This is where I do my EPQ work.
 
 ## Checklist
  - [x] Personal Audit
- - [?] After Launch
- - [o] Mindmap
+ - [ ] After Launch
+ - [ ] Mindmap (incomplete)
  - [x] Diary
  - [ ] PPR Form
- - [o] Project Breakdown
- - [o] Timeline
+ - [ ] Project Breakdown
+ - [x] Timeline
  - [x] Timetable
- - [o] Research
+ - [ ] Research (ongoing)
  - [x] Source Tracker
  - [ ] Skills Tracker
  - [ ] November Progress Review
