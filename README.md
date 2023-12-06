@@ -1,7 +1,9 @@
 # EPQ
 This is where I do my EPQ work.
 
+# Table of Contents
 - [EPQ](#epq)
+- [Table of Contents](#table-of-contents)
 - [Planning](#planning)
   - [Ideas:](#ideas)
   - [Checklist](#checklist)
@@ -9,7 +11,7 @@ This is where I do my EPQ work.
 
 # Planning
 ## Ideas:
- * **Symphonic piece**
+ * **Symphonic piece?**
  * Maybe across different time periods/genres? (concerto through time lol)
  * Modern/Epic?
  * EP Q (Funny name, also very flexible)
