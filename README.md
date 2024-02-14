@@ -11,6 +11,8 @@ This is where I do my EPQ work.
       - [Skills Development](#skills-development)
     - [EP Q](#ep-q)
       - [Features](#features-1)
+      - [Skills Development](#skills-development-1)
+  - [Project Breakdown](#project-breakdown)
   - [Checklist](#checklist)
 - [Adger Badger Lore](#adger-badger-lore)
 
@@ -46,20 +48,39 @@ This would be a modern alternative rock EP (Extended Play). Similarly, it has lo
 #### Features
 - Flexible composition structure
 - Instrumental and lyrical variety
+- Potential for large scale
+- Can be instrumental or lyrical - very open
+- Challenging, with open requirements making it necessary to be sure of the path of the piece
+
+#### Skills Development
+- Learning about the process of alt rock
+- Learning about electronic instruments
+- Learning about music production software
+- Learning about 
+
+## Project Breakdown
+- Research
+  - General Concepts
+  - Concept specific research and listening
 
 ## Checklist
 
 - [x] Personal Audit
 - [ ] After Launch
-- [ ] Mindmap (incomplete)
-- [x] Diary
+- [ ] Mindmap (!)
+- [x] Diary (ongoing) (!)
 - [ ] PPR Form
 - [ ] Project Breakdown
 - [x] Timeline
 - [x] Timetable
-- [ ] Research (ongoing)
+- [ ] Research (ongoing) (!)
+  - [ ] Primary (!)
+  - [x] Secondary
 - [x] Source Tracker
-- [ ] Skills Tracker
+- [ ] Skills 
+  - [ ] *Overview*
+  - [ ] Tracker/Audit
+  - [ ] Log
 - [ ] November Progress Review
 - [ ] Spring Peer Review
 
