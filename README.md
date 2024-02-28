@@ -55,8 +55,8 @@ This would be a modern alternative rock EP (Extended Play). Similarly, it has lo
 #### Skills Development
 - Learning about the process of alt rock
 - Learning about electronic instruments
-- Learning about music production software
-- Learning about 
+- Using music production software
+- 
 
 ## Project Breakdown
 - Research
