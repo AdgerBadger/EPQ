@@ -20,9 +20,9 @@ This is where I do my EPQ work.
 
 - [x] Personal Audit
 - [ ] After Launch
-- [ ] Mindmap (!)
+- [x] Mindmap (!)
 - [x] Diary (ongoing) (!)
-- [ ] PPR Form
+- [x] PPR Initial (!)
 - [ ] Project Breakdown
 - [x] Timeline
 - [x] Timetable
@@ -30,12 +30,18 @@ This is where I do my EPQ work.
   - [ ] Primary (!)
   - [x] Secondary
 - [x] Source Tracker
+  - [ ] Evaluation
 - [ ] Skills 
   - [ ] *Overview*
   - [ ] Tracker/Audit
   - [ ] Log
 - [ ] November Progress Review
 - [ ] Spring Peer Review
+- [ ] Mid project review PPR
+- [ ] Project outcome plan / draft
+- [ ] Bibliography
+- [x] Summer Peer Review
+- [ ] PDF Export Test
 
 
 # Adger Badger Lore
