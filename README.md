@@ -42,6 +42,11 @@ This is where I do my EPQ work.
 - [ ] Bibliography
 - [x] Summer Peer Review
 - [ ] PDF Export Test
+- [ ] Onenote Folders:
+  - [ ] AO1 Planning
+  - [ ] AO2 Research
+  - [ ] AO3 Skills Development
+  - [ ] AO4 Evaluation
 
 
 # Adger Badger Lore
