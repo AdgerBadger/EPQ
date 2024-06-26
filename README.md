@@ -47,6 +47,7 @@ This is where I do my EPQ work.
   - [ ] AO2 Research
   - [ ] AO3 Skills Development
   - [ ] AO4 Evaluation
+- [ ] Candidate Authentication Form
 
 
 # Adger Badger Lore
